@@ -12,17 +12,43 @@ header{
     height: 100px;
     padding: 20px 10px;
     background-color: white;
+    margin-bottom: 50px;
 }
 #logo{
     height: 100%;
     vertical-align: middle;
 }
 .logo-testo{
-    font-size: 40px;
+    font-size: 45px;
     font-weight: 700;
     vertical-align: middle;
 }
 /*fine header*/
 /*main*/
+.contenitore{
+    background-color: white;
+    border-radius: 20px;
+    width: 60%;
+    margin: 0 auto;
+
+}
+.bottone-blu{
+    color: white;
+    background-color: blue;
+    border: 2px solid;
+}
+.bottone{
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+.bottone-aggiungi{
+    border: 1px solid gray;
+    color: gray;
+    background-color: transparent;
+}
+.contenitore-superiore{
+    padding: 20px 100px;
+    border-bottom: 1px solid white;
+}
 
 /*fine main*/

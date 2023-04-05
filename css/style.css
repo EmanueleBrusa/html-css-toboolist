@@ -25,6 +25,7 @@ header{
 }
 /*fine header*/
 /*main*/
+/*inizio contenitore superiore*/
 .contenitore{
     background-color: white;
     border-radius: 20px;
@@ -50,5 +51,8 @@ header{
     padding: 20px 100px;
     border-bottom: 1px solid white;
 }
+/*fine contenitore superiore*/
+/*inizio contenitore inferiore*/
 
+/*fine contenitore inferiore*/
 /*fine main*/

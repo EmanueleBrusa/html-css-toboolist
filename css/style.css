@@ -56,14 +56,17 @@ header{
 .contenitore-inferiore{
     padding: 20px 100px;
 }
+/*inizio sezione liste*/
 ul{
     list-style-type: none;
 }
 li{
     padding: 10px 0px;
 }
+/*fine sezione liste*/
+/*inizio sezione simboli*/
 .simboli{
-    padding: 2px 5px;
+    padding: 0px 4px;
     border-radius: 50%;
     margin-right: 10px;
 }
@@ -75,5 +78,33 @@ li{
     border: 1px solid red;
     color: red;
 }
+/*fine sezione simboli*/
+/*inizio sezione stile tag*/
+.tag{
+    margin-left: 10px;
+    padding: 10px;
+    color: white;
+    border-radius: 30px;
+    font-size: 11px;
+}
+.editoriale{
+    background-color: aqua;
+}
+.goals{
+    background-color: blueviolet;
+}
+.reclutamento{
+    background-color: chartreuse;
+}
+.mobile{
+    background-color: orange;
+}
+.website{
+    background-color: fuchsia;
+}
+.vendite{
+    background-color: greenyellow;
+}
+/*fine sezione stile tag*/
 /*fine contenitore inferiore*/
 /*fine main*/

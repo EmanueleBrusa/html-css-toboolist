@@ -5,7 +5,7 @@
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(218, 218, 218);
+    background-color: rgb(250, 250, 250);
 }
 /*header*/
 header{
@@ -35,7 +35,7 @@ header{
 }
 .bottone-blu{
     color: white;
-    background-color: blue;
+    background-color: rgba(53, 167, 243, 0.904);
     border: 2px solid;
 }
 .bottone{
@@ -49,7 +49,7 @@ header{
 }
 .contenitore-superiore{
     padding: 20px 100px;
-    border-bottom: 1px solid white;
+    border-bottom: 2px solid rgb(250, 250, 250);
 }
 /*fine contenitore superiore*/
 /*inizio contenitore inferiore*/
@@ -66,17 +66,17 @@ li{
 /*fine sezione liste*/
 /*inizio sezione simboli*/
 .simboli{
-    padding: 0px 4px;
+    padding: 0px 2px;
     border-radius: 50%;
     margin-right: 10px;
 }
 .fatto{
-    border: 1px solid green;
-    color: green;
+    border: 1px solid rgb(27, 173, 27);
+    color: rgb(27, 173, 27);
 }
 .non-fatto{
-    border: 1px solid red;
-    color: red;
+    border: 1px solid rgb(197, 26, 26);
+    color: rgb(197, 26, 26);
 }
 /*fine sezione simboli*/
 /*inizio sezione stile tag*/
@@ -88,22 +88,22 @@ li{
     font-size: 11px;
 }
 .editoriale{
-    background-color: aqua;
+    background-color: rgba(53, 167, 243, 0.904);
 }
 .goals{
-    background-color: blueviolet;
+    background-color: rgba(137, 43, 226, 0.842);
 }
 .reclutamento{
-    background-color: chartreuse;
+    background-color: rgb(80, 175, 167);
 }
 .mobile{
-    background-color: orange;
+    background-color: rgba(231, 153, 7, 0.856);
 }
 .website{
-    background-color: fuchsia;
+    background-color: rgb(189, 105, 189);
 }
 .vendite{
-    background-color: greenyellow;
+    background-color: rgb(128, 177, 55);
 }
 /*fine sezione stile tag*/
 /*fine contenitore inferiore*/

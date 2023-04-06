@@ -53,6 +53,11 @@ header{
 }
 /*fine contenitore superiore*/
 /*inizio contenitore inferiore*/
-
+ul{
+    list-style-type: none;
+}
+li{
+    padding: 10px 0px;
+}
 /*fine contenitore inferiore*/
 /*fine main*/

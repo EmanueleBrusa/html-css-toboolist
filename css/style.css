@@ -53,11 +53,27 @@ header{
 }
 /*fine contenitore superiore*/
 /*inizio contenitore inferiore*/
+.contenitore-inferiore{
+    padding: 20px 100px;
+}
 ul{
     list-style-type: none;
 }
 li{
     padding: 10px 0px;
+}
+.simboli{
+    padding: 2px 5px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.fatto{
+    border: 1px solid green;
+    color: green;
+}
+.non-fatto{
+    border: 1px solid red;
+    color: red;
 }
 /*fine contenitore inferiore*/
 /*fine main*/
